@@ -8,7 +8,6 @@ I get too excited about learning new things...
 
 * 🌍  I'm based in Yangon
 * ✉️  You can contact me at [niziu1151998@gmail.com](mailto:niziu1151998@gmail.com)
-* 🧠  I'm learning Psychology and Philosophy
 
 ### Skills
 
