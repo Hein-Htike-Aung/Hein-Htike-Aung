@@ -9,6 +9,8 @@ I get too excited about learning new things...
 * 🌍  I'm based in Yangon
 * ✉️  You can contact me at [niziu1151998@gmail.com](mailto:niziu1151998@gmail.com)
 
+### Check out my creation: https://www.npmjs.com/~hein-htike-aung
+
 ### Skills
 
 <p align="left">
@@ -31,16 +33,6 @@ I get too excited about learning new things...
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
-
-
-### Check out my creation: https://www.npmjs.com/~hein-htike-aung
-
-
-### Socials
-
-<p align="left"> <a href="https://www.facebook.com/Here.for.the.name" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/Hein-Htike-Aung" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
-### Badges
 
 <b>GitHub Stats</b>
 
