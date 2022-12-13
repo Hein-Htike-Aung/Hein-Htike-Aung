@@ -1,9 +1,6 @@
 Hi 👋 My name is Hein Htike Aung
 ================================
 
-Interested in system design and architecture
---------------------------------------------
-
 I get too excited about learning new things...
 
 * 🌍  I'm based in Yangon
