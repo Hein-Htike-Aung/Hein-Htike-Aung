@@ -4,7 +4,7 @@ Hi 👋 My name is Hein Htike Aung
 I get too excited about learning new things...
 
 * 🌍  I'm based in Yangon
-* ✉️  You can contact me at [niziu1151998@gmail.com](mailto:niziu1151998@gmail.com)
+* ✉️  You can contact me at [niziu1151998@gmail.com](mailto:heinhtikeaung.dev@gmail.com)
 
 ### Check out my creations: https://www.npmjs.com/~hein-htike-aung
 
