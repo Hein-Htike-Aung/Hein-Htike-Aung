@@ -64,7 +64,7 @@ const hein = {
 ## ☁️ Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,digitalocean,jenkins" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,cloudflare,jenkins" />
 </p>
 
 <p>
