@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Backend+Architect;Node.js+%7C+Java+Developer;Building+Scalable+Systems" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-
 </div>
 
 ---
